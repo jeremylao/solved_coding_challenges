@@ -47,7 +47,6 @@ int main (){
 			result = lookup[i];
 	}
 
-	
 	cout << "Result: " << result << endl;
 	
 	return 0;
