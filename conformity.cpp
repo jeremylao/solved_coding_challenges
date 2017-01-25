@@ -37,7 +37,6 @@ uint64_t converter(uint64_t arr[]){
 	
 	return converted;
 }
-
 int main(){
 	
 	int iterations = 0;
