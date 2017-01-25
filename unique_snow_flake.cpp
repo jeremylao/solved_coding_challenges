@@ -33,7 +33,7 @@ int main(){
 		for(int j = 0; j < num_flakes; ++j){
 			cin >> snowflake_array[j]; 
 		}
-		
+	
 		snowflake_array[num_flakes] = -1;
 		
 		while(snowflake_array[collision_pointer] != -1){
