@@ -10,7 +10,6 @@ import java.io.BufferedInputStream;
 
 public class max_prod{
 	
-	
 	public static BigInteger test_function(int test){
 		test = test + 1000;
 		return BigInteger.valueOf(test);
