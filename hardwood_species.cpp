@@ -15,7 +15,6 @@ using namespace std;
 
 //map pairing: name, count
 
-
 int main(){
 	
 	int iterations; int total =0; int j_loop = 0;
