@@ -34,7 +34,6 @@ void binary_search(int array_search[], int value_search, int *incrementer){
 	return;
 }
 
-
 int main(){
 	
 	int *incr = (int*) malloc(sizeof(int)); int case_count=0;

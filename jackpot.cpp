@@ -63,7 +63,7 @@ int main (){
 		cin >> number_elements;
 	
 	}
-	
+
 	for(int i = 0 ; i<count; ++i){
 		if(output_vector[i] > 0){
 			cout << "The maximum winning streak is " << output_vector[i] << "." << endl;
